@@ -1,0 +1,9 @@
+*.hi
+*.o
+*_objc.[hm]
+*_stub.[hm]
+.DS_Store
+dist
+cabal-sandbox
+*~
+\#*\#
